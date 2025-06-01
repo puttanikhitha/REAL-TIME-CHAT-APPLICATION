@@ -135,4 +135,4 @@ Below is an example of a real-time chat conversation between two friends using t
 
 **chat form friend2:**
 
-![Image](https://github.com/user-attachments/assets/bbc1f9ef-8fc2-44e4-b901-f2447bb2e6fd)
+![Image](https://github.com/user-attachments/assets/b8386d86-86ac-42cc-9ae4-16f9650df809)
